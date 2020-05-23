@@ -17,7 +17,7 @@ The program produces `.rle` compressed archive files that can be decompressed.
 
 ### Decompression
 
-`./decompress <file.rle>`
+`./rledecomp <file.rle>`
 
 ## Test Cases
 
